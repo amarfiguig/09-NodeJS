@@ -15,8 +15,6 @@
   - [License](#license)
   - [Contributing](#contributing)
   - [Tests](#tests)
-  - [Credits](#credits)
-  - [Author](#author)
   - [Questions](#questions)
   
   ## Installation
@@ -29,25 +27,25 @@
   
   ## License
   
-N/AMIT license [License: MIT](https://opensource.org/licenses/MIT)
+By MIT license [License: MIT](https://opensource.org/licenses/MIT)
 
   ## Contributing
   
   To contribute to this project:
+  
+  The purpose of this project was to create a command line application using the inquirer package that accepts user input. Criteria includes:
+
+- When the user runs the application and enters their responses then a high-quality, professional README.md is generated with the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
+- When a title, description, installation instructions, usage information, contribution guidelines, and test instructions are entered this will be added to appropriate sections of the README
+- When a licence is chosen then the corresponding badge is added to the top and the licence section is generated that explains which license the application is covered under
+The README displays entered GitHub name and a link to the GitHub profile within the Questions section
+- When an email is entered then this is added to the same Questions section, with instructions on how to reach me with additional questions
+When the links in the Table of Contents section are clicked then it takes me to the corresponding section of the README.
 
   
   ## Tests
   
 N/A
-  
-  ## Credits
-  
-  The following people/resources were consulted and/or utilized in the development of this application:
-
-
-  ## Author
-
-  
   
   ## Questions
   Please contact us if you have any questions: 
