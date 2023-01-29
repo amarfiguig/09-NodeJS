@@ -1,6 +1,6 @@
  # Read Me Data
  
-![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)
+![License-MIT](https://img.shields.io/badge/License-MIT-blue.svg)
   
   
   ## Description
