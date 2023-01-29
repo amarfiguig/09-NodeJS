@@ -29,8 +29,8 @@
   
   ## License
   
-  The license link for
-  
+N/AMIT license [License: MIT](https://opensource.org/licenses/MIT)
+
   ## Contributing
   
   To contribute to this project:
@@ -38,7 +38,7 @@
   
   ## Tests
   
-
+N/A
   
   ## Credits
   
