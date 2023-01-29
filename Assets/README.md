@@ -9,7 +9,6 @@
   
   ## Table of Contents
   
-  - [Title](#title)
   - [Description](#description)
   - [Installation](#installation)
   - [Usage](#usage)
