@@ -1,10 +1,11 @@
- # ${data.title}
+ # Read Me Data
+ 
+ [MIT.License](https://img.shields.io/badge/License-MIT-yellow.svg)
   
-  ${renderLicenseBadge(data.license)}
   
   ## Description
   
-  ${data.description}
+
   
   ## Table of Contents
   
@@ -21,40 +22,37 @@
   
   ## Installation
   
-  ${data.installation}
+
   
   ## Usage
   
-  ${data.usage}
+
   
   ## License
   
-  ${renderLicenseSection(data.license)}
-  The license link for ${data.license} ${renderLicenseLink(data.license)}
+  The license link for
   
   ## Contributing
   
   To contribute to this project:
-  ${data.contributing}
+
   
   ## Tests
   
-  ${data.tests}
+
   
   ## Credits
   
   The following people/resources were consulted and/or utilized in the development of this application:
-  ${data.credits}
 
-//## Author
-//${data.author}
+
+  ## Author
+
   
   
   ## Questions
   Please contact us if you have any questions: 
-  - ${data.questions} 
-  - Email: ${data.email}
-  - GitHub Username: ${data.username}
-  - GitHub Profile: ${data.profile}
-`;
-}
+  - Email: myfiguig@gmail.com
+  - GitHub Username: @amarfiguig
+  - GitHub Profile: [@amarfiguig](https://github.com/amarfiguig)
+
