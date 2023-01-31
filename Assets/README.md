@@ -23,7 +23,7 @@
   
   ## Usage
   
-The code of this project can be used to create any professional ReadMe file.
+The code of this project can be used to create any professional Read Me file.
   
   ## License
   
