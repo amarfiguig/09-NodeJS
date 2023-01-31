@@ -48,7 +48,7 @@ A project that displays questions and results for the entered data. Other questi
 
 ## ReadMe Screenshot
 
-
+https://raw.githubusercontent.com/amarfiguig/NodeJS/main/Assets/github.com_amarfiguig_NodeJS_blob_main_Assets_README.md%20(4).png
 
 ## License
 
