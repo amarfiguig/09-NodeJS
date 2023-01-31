@@ -5,7 +5,7 @@
   
   ## Description
   
-
+ The project contains commands addressed to the user in the form of questions that require answering them in order to create a readme file.
   
   ## Table of Contents
   
@@ -19,11 +19,12 @@
   
   ## Installation
   
-
+Through the VS code, after downloading it, I displayed and wrote the questions inside the menus by entering it in the cmd reader and writing specific commands to answer the questions and then displaying them as a request to create a file.
   
   ## Usage
   
 The code of this project can be used to create any professional Read Me file.
+By Ahmed Amar
   
   ## License
   
@@ -45,7 +46,7 @@ When the links in the Table of Contents section are clicked then it takes me to 
   
   ## Tests
   
-N/A
+No Test 
   
   ## Questions
   Please contact us if you have any questions: 
