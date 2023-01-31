@@ -24,7 +24,7 @@ Through the VS code, after downloading it, I displayed and wrote the questions i
   ## Usage
   
 The code of this project can be used to create any professional Read Me file.
-By Ahmed Amar
+- By Ahmed Amar
   
   ## License
   
@@ -51,6 +51,6 @@ No Test
   ## Questions
   Please contact us if you have any questions: 
   - Email: myfiguig@gmail.com
-  - GitHub Username: @amarfiguig
+  - GitHub Username: [Ahmed Amar](https://github.com/amarfiguig)
   - GitHub Profile: [@amarfiguig](https://github.com/amarfiguig)
 
