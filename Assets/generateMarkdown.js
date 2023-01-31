@@ -31,7 +31,7 @@ function renderLicenseSection(license) {
 //For example, other questions can be added such as title, usage, description, and ....
 // The user will be taken to the corresponding README files when clicking on the links.
 
-function generateMarkdown(Detail data) {
+function generateMarkdown(data) {
   return `
   
   # ${data.title}
