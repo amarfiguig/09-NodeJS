@@ -27,6 +27,11 @@ const questions = [
     },
     {
         type: "input",
+        name: "usage",
+        message: "Can you provide examples for use",
+    },
+    {
+        type: "input",
         name: "installation",
         message: "Can you enter instructions for installing your project please"
     },
