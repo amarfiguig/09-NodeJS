@@ -46,3 +46,5 @@ A project that displays questions and results for the entered data. Other questi
 
 
 ## License
+
+MIT license.
